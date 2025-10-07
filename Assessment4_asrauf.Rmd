@@ -1,8 +1,10 @@
 
+https://github.com/asrauf19/-Assessment-4-Comparative-Analysis-of-Helicobacter-anseris-GCA_003364335--main.zip.git
+
 ---
 title: "Assessment 4: Comparative Analysis of *Helicobacter anseris* (GCA_003364335)"
-author: "Student ID: asrauf"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+author: Abdul Rauf. Student ID: asrauf (215136045)
+date: 06/10/2025
 output:
   html_document:
     toc: true
